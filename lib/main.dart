@@ -5,9 +5,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// 🚀 Follow me on Instagram: https://www.instagram.com/skytech_28/
-// 💻 Check out my GitHub: https://github.com/Amitmasram
-// 👔 Connect with me on LinkedIn: https://www.linkedin.com/in/amit-masram/
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
