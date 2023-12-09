@@ -22,10 +22,7 @@ This Flutter project is designed to empower you to create something cool by prov
 ### Connect with Us
 
 Stay updated on our latest Flutter creations and connect with us on social media:
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
 
-- 📱 Follow us on Twitter: [@AmitMasram10](https://twitter.com/AmitMasram10)
-- 📷 Connect on Instagram: [skytech_28](https://www.instagram.com/skytech_28/)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/feed/)
-- 📺 Subscribe to our YouTube Channel: [Your YouTube Channel](https://www.youtube.com/channel/UC95U3IDgISWVeyqo4CGBywQ)
 
 Feel free to star ⭐️ the repo if you find it cool! Happy coding! 💻✨
